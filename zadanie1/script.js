@@ -1,5 +1,5 @@
 'use strict';
-
+// let
 //let money, time;
 ///money =1000;
 
